@@ -1,1 +1,1 @@
-# Thufayl
+Create a Hangman game.
